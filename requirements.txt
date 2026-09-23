@@ -1,3 +1,0 @@
-streamlit
-pandas
-SpeechRecognition==3.17.0
